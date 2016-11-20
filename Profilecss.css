@@ -26,4 +26,11 @@ strong {
   font-weight: 300;
 }
 
+.navbar {
+    background-color:  #87CEEB;
+}
+
+.progress.progress-SPSS::-webkit-progress-value{
+  background: hotpink;
+}
 

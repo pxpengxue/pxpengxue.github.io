@@ -14,11 +14,12 @@ strong {
 }
 
 .navbar {
-  background-color: #e16879;
+    background-color: #D2B4DE; 
 }
 
-.btn {
+.about-btn { background-color: #D2B4DE; 
   font-weight: 300;
+  color: white;
 }
 
 .btn-primary {
@@ -52,8 +53,9 @@ strong {
   background-repeat: repeat-x;
 }
 
-.navbar{
+.navbar{ 
   margin-bottom: 0px;
+
 }
 
 /* Additional stuff for index.html page */
